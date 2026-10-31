@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.ko
+*.tgz
+*.spk
+.env
+known_hosts
+
